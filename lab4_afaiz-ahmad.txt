@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: afaiz-ahmad
+    Linux system name: afaizahmad-virtual-machine
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/afaiz-ahmad/ops445/lab4
+    Start at: Sun Feb  2 22:23:21 2025
+=================================================================
